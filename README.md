@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💕 Valentine's Day Proposal App
 
 A beautiful, classy, and cute Streamlit application to ask someone special to be your Valentine!
@@ -46,8 +45,3 @@ Feel free to customize:
 - Animation speeds
 
 Good luck! 💖
-
-=======
-# Personal-Project
-A personal project
->>>>>>> 34309cd65266f8b78c81f7556562de856463d48a
